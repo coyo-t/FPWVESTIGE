@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_tick_timer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_tick_timer",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

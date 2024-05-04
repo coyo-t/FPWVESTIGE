@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"tv_ideas",
+  "name":"tv_ideas",
+  "parent":{
+    "name":"fpw_refactor_2",
+    "path":"fpw_refactor_2.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

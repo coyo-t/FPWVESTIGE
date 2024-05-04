@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"deadmeat_triggers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"deadmeat_triggers",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/Scripts/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

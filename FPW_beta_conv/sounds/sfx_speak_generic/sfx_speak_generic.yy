@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_speak_generic",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.179388,
+  "name":"sfx_speak_generic",
+  "parent":{
+    "name":"speaksounds",
+    "path":"folders/Sounds/textwrite/speaksounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_speak_generic.wav",
+  "type":0,
+  "volume":1.0,
+}

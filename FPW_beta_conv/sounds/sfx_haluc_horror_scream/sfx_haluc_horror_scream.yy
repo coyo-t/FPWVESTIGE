@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_haluc_horror_scream",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":11.455918,
+  "name":"sfx_haluc_horror_scream",
+  "parent":{
+    "name":"literally nothing else",
+    "path":"folders/Sounds/literally nothing else.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_haluc_horror_scream",
+  "type":0,
+  "volume":0.58,
+}

@@ -1,0 +1,54 @@
+{
+	"test":{
+		"overnight_enabled": true,
+		"test": "haha wow",
+		"calm": -30,
+		"time_rate": 1,
+		"char_levels":{
+			"cici": 11,
+			"jakl": 11,
+			"grun": 11,
+			"mattis": 11,
+			"overnight": 11
+		}
+	},
+
+	"e3":{
+		"overnight_enabled": true,
+		"calm": -30,
+		"time_rate": 2,
+		"char_levels":{
+			"cici": 6,
+			"jakl": 6,
+			"grun": 6,
+			"mattis": 8,
+			"overnight": 6
+		}
+	},
+
+	"cycle_1":{
+		"calm": -30,
+		"next": "cycle_2",
+		"time_rate": 5,
+		"char_levels":{
+			"cici": 1,
+			"jakl": 0,
+			"grun": 0,
+			"mattis": 0,
+			"overnight": 1
+		}
+	},
+
+	"cycle_2":{
+		"calm": -22,
+		"next": -1,
+		"time_rate": 2.2,
+		"char_levels":{
+			"cici": 2,
+			"jakl": 1,
+			"grun": 0,
+			"mattis": 1,
+			"overnight": 4
+		}
+	}
+}

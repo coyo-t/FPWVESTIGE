@@ -1,0 +1,17 @@
+================================================================================
+
+by sunday
+tick timer pseudo-rewrite using callbacks
+
+By monday
+Simple CCTV map impl
+
+================================================================================
+
+--reminder: use hog files for misc shit like LUTs and hitboxes
+
+Figure out why the window doesnt have an icon
+
+add in a global file courier/repository system for loading shit. IE models or hog files
+
+dont forget to do some shit involving parameter_string()

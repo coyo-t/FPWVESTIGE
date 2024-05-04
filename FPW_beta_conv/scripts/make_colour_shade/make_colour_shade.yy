@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"make_colour_shade",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"make_colour_shade",
+  "parent":{
+    "name":"util",
+    "path":"folders/Scripts/util.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

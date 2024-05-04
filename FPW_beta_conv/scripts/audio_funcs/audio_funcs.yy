@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"audio_funcs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audio_funcs",
+  "parent":{
+    "name":"_finished",
+    "path":"folders/Scripts/util/_finished.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

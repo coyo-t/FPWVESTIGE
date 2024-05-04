@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sha_depthtest",
+  "name":"sha_depthtest",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

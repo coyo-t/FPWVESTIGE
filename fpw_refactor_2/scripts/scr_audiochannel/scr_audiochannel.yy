@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_audiochannel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_audiochannel",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

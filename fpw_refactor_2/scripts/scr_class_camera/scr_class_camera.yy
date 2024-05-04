@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_class_camera",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_class_camera",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

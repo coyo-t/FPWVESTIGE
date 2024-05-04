@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"array_sort_shuffle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_sort_shuffle",
+  "parent":{
+    "name":"sorts",
+    "path":"folders/Scripts/util/sorts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

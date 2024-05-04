@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"byte_flip",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"byte_flip",
+  "parent":{
+    "name":"binary",
+    "path":"folders/Scripts/util/binary.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

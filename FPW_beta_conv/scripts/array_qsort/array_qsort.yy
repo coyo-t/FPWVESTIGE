@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"array_qsort",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_qsort",
+  "parent":{
+    "name":"sorts",
+    "path":"folders/Scripts/util/sorts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

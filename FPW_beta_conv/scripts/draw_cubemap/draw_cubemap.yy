@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_cubemap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_cubemap",
+  "parent":{
+    "name":"draw",
+    "path":"folders/Scripts/util/draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

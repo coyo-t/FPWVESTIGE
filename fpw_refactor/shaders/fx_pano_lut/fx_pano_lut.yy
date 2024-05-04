@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"fx_pano_lut",
+  "name":"fx_pano_lut",
+  "parent":{
+    "name":"shaders",
+    "path":"folders/shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

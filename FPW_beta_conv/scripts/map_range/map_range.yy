@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"map_range",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"map_range",
+  "parent":{
+    "name":"maths",
+    "path":"folders/Scripts/util/maths.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

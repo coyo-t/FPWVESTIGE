@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_inputmanager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_inputmanager",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

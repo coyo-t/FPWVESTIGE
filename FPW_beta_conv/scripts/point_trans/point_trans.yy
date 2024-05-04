@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"point_trans",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"point_trans",
+  "parent":{
+    "name":"util",
+    "path":"folders/Scripts/util.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

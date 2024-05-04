@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sector_event_scripts",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sector_event_scripts",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/Scripts/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

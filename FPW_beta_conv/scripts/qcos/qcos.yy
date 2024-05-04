@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"qcos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"qcos",
+  "parent":{
+    "name":"maths",
+    "path":"folders/Scripts/util/maths.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

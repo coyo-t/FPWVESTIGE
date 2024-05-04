@@ -1,0 +1,63 @@
+////take all of the room begin shit and move it into room creation code
+hacky yes, cleaner also yes
+well cleaner in the sense that it wont run a bunch when paused/unpaused
+oh yeah make it so that only some rooms can be paused
+srsly make a "room properties" object >.>
+
+im wondering if the trueend for fpw should be stvg related, tam miana out of context end of time thing, or smth relating to me being done with fnaf finally
+idk
+i know exactly what i wanna do for each, i just dunno which to go with
+
+add a user setting to disable the camera static? so it doesnt fuck up video recordings
+
+////
+give the window health
+like, make it so on earlier cycles grun doesnt just immediently punch thru the window
+he cracks it first
+
+make cici not instakill you, only when you put down the cctv
+
+////
+
+--move pausing from master to its own obj
+
+no, pointless
+--[[demo recording and playback.
+
+mouse state updated with "set mouse pos" command?
+
+mouse state gotten from meta master
+
+wait command for do-nothing frames
+]]
+
+no, not using beta
+--[[counter LWO
+
+counter {
+	count,
+	min,
+	max,
+	rate,
+	reset_max(),
+	reset_min(),
+	increase(),
+	decrease(),
+}
+]]
+
+spooky stats screen happenings, ie ekka popping up or smth with halucinations.
+
+reminder: make all main gameplay assets a part of one texgroup in final build
+dumpass
+
+title screen:
+have the characters being swept across like in Mk4 (add blend mode?)
+have rotating cubemap with earth, the moon, and the labyrinth in the bg (and the sun duh). (also make stars appear away from the sun dunkass)
+selection elements horizontally centred like Mk4
+"""copyright""" info should be in a separate credits menu button
+cubemap rotates depending on whiich menu option is selected
+menu elements rendered onto 3d planes which also rotate, rather than slide. use multiple views/cameras?
+maybe not views. just render to specific surfaces i think
+
+trueend with parameter_string()

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_jakl_laugh_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.795011,
+  "name":"sfx_jakl_laugh_1",
+  "parent":{
+    "name":"literally nothing else",
+    "path":"folders/Sounds/literally nothing else.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sfx_jakl_laugh_1",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__scr_testInteractEntity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__scr_testInteractEntity",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

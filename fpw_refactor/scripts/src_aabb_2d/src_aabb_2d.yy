@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"src_aabb_2d",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"src_aabb_2d",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

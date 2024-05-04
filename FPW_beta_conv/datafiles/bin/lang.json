@@ -1,0 +1,45 @@
+{
+	"gameplay": {
+		"cctv_cams": {
+			"droid_start": {
+				"title": "Show Stage",
+				"cctvId": "01"
+			},
+
+			"main": {
+				"title": "Dining Area",
+				"cctvId": "04"
+			},
+
+			"bedhall": {
+				"title": "Pirate's Cove",
+				"cctvId": "08"
+			},
+
+			"medi": {
+				"title": "Backstage",
+				"cctvId": "03"
+			},
+
+			"bachta": {
+				"title": "Restrooms",
+				"cctvId": "02"
+			},
+
+			"interro": {
+				"title": "Kitchen",
+				"cctvId": "06"
+			},
+
+			"hall_l": {
+				"title": "Supply Closet",
+				"cctvId": "05"
+			},
+
+			"hall_r": {
+				"title": "West Hall",
+				"cctvId": "07"
+			}
+		}
+	}
+}

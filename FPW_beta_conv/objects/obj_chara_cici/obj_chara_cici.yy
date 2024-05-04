@@ -1,0 +1,43 @@
+{
+  "$GMObject":"",
+  "%Name":"obj_chara_cici",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"obj_chara_cici",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"class_char_ai","path":"objects/class_char_ai/class_char_ai.yy",},"propertyId":{"name":"char_name","path":"objects/class_char_ai/class_char_ai.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"cici",},
+  ],
+  "parent":{
+    "name":"character ai",
+    "path":"folders/Objects/character ai.yy",
+  },
+  "parentObjectId":{
+    "name":"class_char_ai",
+    "path":"objects/class_char_ai/class_char_ai.yy",
+  },
+  "persistent":false,
+  "physicsAngularDamping":0.1,
+  "physicsDensity":0.5,
+  "physicsFriction":0.2,
+  "physicsGroup":0,
+  "physicsKinematic":false,
+  "physicsLinearDamping":0.1,
+  "physicsObject":false,
+  "physicsRestitution":0.1,
+  "physicsSensor":false,
+  "physicsShape":1,
+  "physicsShapePoints":[],
+  "physicsStartAwake":true,
+  "properties":[],
+  "resourceType":"GMObject",
+  "resourceVersion":"2.0",
+  "solid":false,
+  "spriteId":{
+    "name":"spr_char_ico_cici",
+    "path":"sprites/spr_char_ico_cici/spr_char_ico_cici.yy",
+  },
+  "spriteMaskId":null,
+  "visible":true,
+}

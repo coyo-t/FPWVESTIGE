@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_inputKey",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_inputKey",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

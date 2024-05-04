@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"set_blend_multi",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_blend_multi",
+  "parent":{
+    "name":"util",
+    "path":"folders/Scripts/util.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

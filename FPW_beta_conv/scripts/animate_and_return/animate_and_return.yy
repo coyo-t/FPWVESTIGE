@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"animate_and_return",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"animate_and_return",
+  "parent":{
+    "name":"draw",
+    "path":"folders/Scripts/util/draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

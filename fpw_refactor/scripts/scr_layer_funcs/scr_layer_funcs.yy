@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_layer_funcs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_layer_funcs",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

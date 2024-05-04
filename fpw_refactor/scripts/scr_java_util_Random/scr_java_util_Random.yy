@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_java_util_Random",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_java_util_Random",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

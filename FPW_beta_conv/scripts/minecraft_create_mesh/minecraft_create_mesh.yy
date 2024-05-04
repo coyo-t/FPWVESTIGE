@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"minecraft_create_mesh",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"minecraft_create_mesh",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

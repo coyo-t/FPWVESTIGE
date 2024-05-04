@@ -1,0 +1,251 @@
+{
+	"droid_start": {
+		"parent": -1,
+		"plr_dist": 6,
+		"draw_routine": "dwrt_cctv_droid_start",
+		"type": "pov",
+		"visible": true,
+		"connections": ["main_1"]
+	},
+
+	"main": {
+		"parent": -1,
+		"type": "cubemap",
+		"visible": true,
+		"draw_routine": "dwrt_cctv_main"
+	},
+	"main_1": {
+		"parent": "main",
+		"plr_dist": 5,
+		"connections": [
+			"main_2",
+			"main_3",
+			"main_4",
+			"medi_3"
+		]
+	},
+	"main_2": {
+		"parent": "main",
+		"plr_dist": 6,
+		"connections": [
+			"main_1",
+			"main_3",
+			"main_4"
+		]
+	},
+	"main_3": {
+		"parent": "main",
+		"plr_dist": 4,
+		"connections": [
+			"main_1",
+			"main_2",
+			"main_4",
+			"hall_r_1",
+			"bedhall_2"
+		]
+	},
+	"main_4": {
+		"parent": "main",
+		"plr_dist": 5,
+		"connections": [
+			"main_1",
+			"main_2",
+			"main_3",
+			"bedhall_2"
+		]
+	},
+
+	"bedhall": {
+		"parent": -1,
+		"type": "pano",
+		"visible": true,
+		"draw_routine": "dwrt_cctv_bedhall"
+	},
+	"bedhall_1": {
+		"parent": "bedhall",
+		"plr_dist": 3,
+		"connections": [
+			"bedhall_2",
+			"hall_r_2"
+		]
+	},
+	"bedhall_2": {
+		"parent": "bedhall",
+		"plr_dist": 4,
+		"connections": [
+			"main_3",
+			"main_4",
+			"bedhall_1",
+			"bedhall_3"
+		]
+	},
+	"bedhall_3": {
+		"parent": "bedhall",
+		"plr_dist": 5,
+		"connections": [
+			"bedhall_2"
+		]
+	},
+
+	"hall_l": {
+		"parent": -1,
+		"type": "pano",
+		"visible": true,
+		"draw_routine": "dwrt_cctv_hall_l"
+	},
+	"hall_l_1": {
+		"parent": "hall_l",
+		"plr_dist": 3,
+		"connections": [
+			"medi_1",
+			"hall_l_2",
+			"interro"
+		]
+	},
+	"hall_l_2": {
+		"parent": "hall_l",
+		"plr_dist": 2,
+		"connections": [
+			"hall_l_1",
+			"airlock_l"
+		]
+	},
+
+	"hall_r": {
+		"parent": -1,
+		"type": "pano",
+		"visible": true,
+		"draw_routine": "dwrt_cctv_hall_r"
+	},
+	"hall_r_1": {
+		"parent": "hall_r",
+		"plr_dist": 3,
+		"connections": [
+			"main_3",
+			"medi_3",
+			"hall_r_2",
+			"interro"
+		]
+	},
+	"hall_r_2": {
+		"parent": "hall_r",
+		"plr_dist": 2,
+		"connections": [
+			"bedhall_1",
+			"hall_r_1",
+			"airlock_r"
+		]
+	},
+
+	"medi": {
+		"parent": -1,
+		"type": "pano",
+		"visible": true,
+		"draw_routine": "dwrt_cctv_medi"
+	},
+	"medi_1": {
+		"parent": "medi",
+		"plr_dist": 4,
+		"connections": [
+			"medi_2",
+			"hall_l_1"
+		]
+	},
+	"medi_2": {
+		"parent": "medi",
+		"plr_dist": 4,
+		"connections": [
+			"medi_1",
+			"medi_3",
+			"bachta"
+		]
+	},
+	"medi_3": {
+		"parent": "medi",
+		"plr_dist": 4,
+		"connections": [
+			"main_1",
+			"hall_r_1",
+			"medi_2"
+		]
+	},
+
+	"bachta": {
+		"parent": -1,
+		"type": "pov",
+		"visible": true,
+		"draw_routine": "dwrt_cctv_bachta",
+		"plr_dist": 5,
+		"connections": [
+			"medi_2"
+		]
+	},
+
+	"interro": {
+		"parent": -1,
+		"type": "pov",
+		"draw_routine": "dwrt_cctv_interro",
+		"events": true,
+		"dont_cause_move_flash": true,
+		"visible": false,
+		"on_enter": "scr_on_move_interro",
+		"on_exit": "scr_on_move_interro",
+		"plr_dist": 1,
+		"connections": [
+			"hall_l_1",
+			"hall_r_1"
+		]
+	},
+
+	"airlock_l": {
+		"parent": -1,
+		"visible": false,
+		"on_exit": "scr_on_move_airlock_l",
+		"on_enter": "scr_on_move_airlock_l",
+		"on_exit_attempt": "scr_exit_atp_airlock_l",
+		"plr_dist": 1,
+		"connections": [
+			"hall_l_2",
+			"player"
+		]
+	},
+	"airlock_r": {
+		"parent": -1,
+		"visible": false,
+		"on_exit": "scr_on_move_airlock_r",
+		"on_enter": "scr_on_move_airlock_r",
+		"on_exit_attempt": "scr_exit_atp_airlock_r",
+		"plr_dist": 1,
+		"connections": [
+			"hall_r_2",
+			"player"
+		]
+	},
+	"player": {
+		"parent": -1,
+		"visible": false,
+		"on_enter_attempt": "scr_on_enter_test",
+		"on_enter_deny": "scr_on_deny_test",
+		"on_enter": "scr_on_enter_player",
+		"plr_dist": 0,
+		"connections": [
+			"airlock_l",
+			"airlock_r"
+		]
+
+	},
+	"overnight": {
+		"parent": -1,
+		"visible": false,
+		"connections": [
+			"droid_start",
+			"main",
+			"bedhall",
+			"hall_l",
+			"hall_r",
+			"medi",
+			"interro"
+		]
+	}
+
+}

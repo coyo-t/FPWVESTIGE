@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"__TODO",
+  "name":"__TODO",
+  "parent":{
+    "name":"fpw_refactor_2",
+    "path":"fpw_refactor_2.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

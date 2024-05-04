@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_aabb",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_aabb",
+  "parent":{
+    "name":"classes",
+    "path":"folders/scripts/classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

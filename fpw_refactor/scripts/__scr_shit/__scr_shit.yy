@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__scr_shit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__scr_shit",
+  "parent":{
+    "name":"shit",
+    "path":"folders/scripts/shit.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

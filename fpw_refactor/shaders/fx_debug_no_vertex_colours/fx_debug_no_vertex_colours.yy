@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"fx_debug_no_vertex_colours",
+  "name":"fx_debug_no_vertex_colours",
+  "parent":{
+    "name":"shaders",
+    "path":"folders/shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
